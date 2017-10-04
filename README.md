@@ -1,1 +1,2 @@
-# charlenemayy.github.io
+# yum
+pacman
