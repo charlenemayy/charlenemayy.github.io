@@ -12,13 +12,15 @@ locale                   : "en"
 title                    : "float mayflower;"
 title_separator          : "-"
 name                     : "Charlene May Juvida"
-description              : "I worked really hard for this domain pun"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Hello! 
+                            I'm a CS student at the University of Central Florida with experience in VR development, Unity and software automation. 
+                            Currently trying to diversify my development skills to discover the CS field I enjoy the most."
+url                      : "charlenemayy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "charlenemayy" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "charlenemayy/charlenemayy.github.io"
 teaser                   : "/assets/images/foam.JPG" #  e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 90
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -85,7 +87,9 @@ analytics:
 author:
   name             : "Charlene May Juvida"
   avatar           : "assets/images/myface.JPG"
-  bio              : "I worked really hard for this domain pun"
+  bio              : "Hello! 
+                      I'm a CS student at the University of Central Florida with experience in VR development, Unity and software automation. 
+                      Currently trying to diversify my development skills to discover the CS field I enjoy the most."
   location         : "Orlando, FL"
   email            : "charlenemayy@knights.ucf.edu"
   uri              :
