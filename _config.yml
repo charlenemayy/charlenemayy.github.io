@@ -253,3 +253,7 @@ defaults:
       comments: true
       share: true
       related: true
+  
+  # Header
+  header:
+    image: /assets/images/foam.JPG
