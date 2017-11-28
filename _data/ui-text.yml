@@ -13,13 +13,13 @@ en: &DEFAULT_EN
   ext_link_label             : "Direct Link"
   less_than                  : "less than"
   minute_read                : "minute read"
-  share_on_label             : "Share on"
+  share_on_label             : 
   meta_label                 :
-  tags_label                 : "Tags:"
+  tags_label                 : 
   categories_label           : "Categories:"
-  date_label                 : "Updated:"
-  comments_label             : "Leave a Comment"
-  comments_title             : "Comments"
+  date_label                 : 
+  comments_label             : 
+  comments_title             : 
   more_label                 : "Learn More"
   related_label              : "You May Also Enjoy"
   follow_label               : "Follow:"
