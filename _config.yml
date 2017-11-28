@@ -12,17 +12,15 @@ locale                   : "en"
 title                    : "float mayflower;"
 title_separator          : "-"
 name                     : "Charlene May Juvida"
-description              : "Hello! 
-                            I'm a CS student at the University of Central Florida with experience in VR development, Unity and software automation. 
-                            Currently trying to diversify my development skills to discover the CS field I enjoy the most."
+description              : "Portfolio for Charlene May Juvida"
 url                      : "charlenemayy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "charlenemayy/charlenemayy.github.io"
 teaser                   : "/assets/images/foam.JPG" #  e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 90
+words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "disqus"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
